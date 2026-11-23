@@ -35,7 +35,7 @@ A playful fitness dashboard built around **Kip**, a kettlebell mascot who cheers
 Requires Node.js (LTS) and pnpm.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/pep-dashboard.git
+git clone https://github.com/Haris-Meh/pep-dashboard.git
 cd pep-dashboard
 pnpm install
 pnpm dev
@@ -54,8 +54,12 @@ pnpm build
 ```
 src/
   App.tsx          # app shell, views and workout logic
+  main.tsx         # React entry point
+  index.css        # global styles
 public/
-  images/          # Kip poses (kip-pose-0..3.png) and hero art
+  favicon.png
+  images/          # Kip poses (kip-pose-0..3.png), kip-poses.png,
+                   # kip-transparent.png and hero art (fitness-friends.png)
 ```
 
 ## Roadmap
