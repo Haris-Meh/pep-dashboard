@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Nunito:wght@400;500;600;700;800;900&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Nunito', sans-serif;
+  --font-display: 'Lilita One', cursive;
+  --breakpoint-md: 800px;
+}
+
+@keyframes bob {
+  0%, 100% { transform: translateY(0) rotate(-3deg); }
+  50% { transform: translateY(-6px) rotate(3deg); }
+}
+
+@keyframes rep-pop {
+  0% { transform: scale(.9); }
+  65% { transform: scale(1.08); }
+  100% { transform: scale(1); }
+}

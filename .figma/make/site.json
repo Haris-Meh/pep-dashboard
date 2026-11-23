@@ -1,0 +1,11 @@
+{
+  "title": "Fitness Tracker",
+  "description": "Track workouts with exercise videos and rep counters to help fitness enthusiasts follow routines, monitor progress, and stay motivated.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
