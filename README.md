@@ -4,7 +4,7 @@ A playful fitness dashboard built around **Kip**, a kettlebell mascot who cheers
 
 > Concept, brand direction and UI by **Haris Mehmood**. First draft generated in Figma Make, then exported and refined by hand.
 
-![PEP! dashboard overview](docs/screenshot-overview.png)
+![PEP! dashboard overview](screenshot-overview.png)
 
 ## Features
 
